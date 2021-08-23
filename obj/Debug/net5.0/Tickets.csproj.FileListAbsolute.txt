@@ -1,0 +1,16 @@
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.csproj.AssemblyReference.cache
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Desktop\Tickets\bin\Debug\net5.0\Tickets.exe
+C:\Users\allie\OneDrive\Desktop\Tickets\bin\Debug\net5.0\Tickets.deps.json
+C:\Users\allie\OneDrive\Desktop\Tickets\bin\Debug\net5.0\Tickets.runtimeconfig.json
+C:\Users\allie\OneDrive\Desktop\Tickets\bin\Debug\net5.0\Tickets.runtimeconfig.dev.json
+C:\Users\allie\OneDrive\Desktop\Tickets\bin\Debug\net5.0\Tickets.dll
+C:\Users\allie\OneDrive\Desktop\Tickets\bin\Debug\net5.0\ref\Tickets.dll
+C:\Users\allie\OneDrive\Desktop\Tickets\bin\Debug\net5.0\Tickets.pdb
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.dll
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\ref\Tickets.dll
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.pdb
+C:\Users\allie\OneDrive\Desktop\Tickets\obj\Debug\net5.0\Tickets.genruntimeconfig.cache
